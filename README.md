@@ -1,2 +1,2 @@
-# reac-native-template
+# react-native-template
 base template for new app
